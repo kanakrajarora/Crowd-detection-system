@@ -3,6 +3,9 @@
 ## 📌 Overview  
 This project implements a **Crowd Detection System** using **YOLOv8** to detect persons in a video and analyze their proximity to identify crowd formations. The system logs detected crowd events and saves the results in a CSV file.  
 
+## Video Demonstration
+https://youtu.be/X5xJhQbEhP4
+
 ## 🔍 Features  
 ✅ Detects persons in a video using **YOLOv8**  
 ✅ Identifies **crowds** (3 or more persons standing close together for 10 consecutive frames)  
